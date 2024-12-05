@@ -1,5 +1,5 @@
 # Security Incident Documentation
-This repository showcases my work on documenting a Security Incident Response scenario as part of my cybersecurity training. The scenario was designed to simulate a real-world incident, allowing me to practice incident response principles by using an Incident Handler’s Journal, a crucial tool in the cybersecurity incident response process.
+This repository showcases my work on documenting a Security Incident Response scenario as part of my Google cybersecurity training. The scenario was designed to simulate a real-world incident, allowing me to practice incident response principles by using an Incident Handler’s Journal, a crucial tool in the cybersecurity incident response process.
 
 ## Project Overview
 In this scenario, I handled a simulated security incident involving a ransomware attack on a small U.S. healthcare clinic. The attack severely disrupted the clinic’s operations by encrypting critical files, including patient records, rendering the company’s systems unusable. The incident stemmed from a phishing attack that allowed unethical hackers to deploy ransomware after employees downloaded a malicious attachment.
